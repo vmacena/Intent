@@ -1,4 +1,4 @@
-package com.example.intents
+package br.edu.scl.ifsp.sdm.intents
 
 import org.junit.Test
 
